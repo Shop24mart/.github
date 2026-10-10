@@ -100,7 +100,8 @@ Shop24mart is built as a **Progressive Web App (PWA)**:
 Need assistance with an order, or have questions about shopping with Shop24mart?
 
 - 🌐 **Website**: [https://www.shop24mart.com](https://www.shop24mart.com)
-- 📧 **Customer Support**: [support@shop24mart.com](mailto:support@shop24mart.com)
+- 📧 **Email Support**: [support@shop24mart.com](mailto:support@shop24mart.com)
+- 💬 **WhatsApp Support**: [+234 901 440 8627](https://wa.me/2349014408627)
 
 ---
 
