@@ -95,13 +95,12 @@ Shop24mart is built as a **Progressive Web App (PWA)**:
 
 ---
 
-## 🏢 Suppliers & Business Inquiries
+## 🏢 Contact & Customer Support
 
-Are you a distributor, FMCG brand, or supplier looking to partner with Shop24mart?
+Need assistance with an order, or have questions about shopping with Shop24mart?
 
 - 🌐 **Website**: [https://www.shop24mart.com](https://www.shop24mart.com)
 - 📧 **Customer Support**: [support@shop24mart.com](mailto:support@shop24mart.com)
-- 🤝 **Partnership & Supply**: [partners@shop24mart.com](mailto:partners@shop24mart.com)
 
 ---
 
