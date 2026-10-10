@@ -118,8 +118,34 @@ Shop24mart is powered by a high-throughput, enterprise omnichannel engine:
 
 </details>
 
+## 👥 Core Creators & Engineering Team
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/Nwachukwuchinedu">
+        <img src="https://github.com/Nwachukwuchinedu.png?size=100" width="100px;" alt="Chinedu Simeon Nwachukwu" style="border-radius:50%;" />
+        <br />
+        <sub><b>Chinedu Simeon Nwachukwu</b></sub>
+      </a>
+      <br />
+      <sub><a href="https://github.com/Nwachukwuchinedu">@Nwachukwuchinedu</a></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/IreoluwaWisdom">
+        <img src="https://github.com/IreoluwaWisdom.png?size=100" width="100px;" alt="Ireoluwa Wisdom Olukayode" style="border-radius:50%;" />
+        <br />
+        <sub><b>Ireoluwa Wisdom Olukayode</b></sub>
+      </a>
+      <br />
+      <sub><a href="https://github.com/IreoluwaWisdom">@IreoluwaWisdom</a></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <p align="center">
   <sub>© 2026 <strong>Shop24mart</strong>. All rights reserved. • <a href="https://www.shop24mart.com">www.shop24mart.com</a></sub>
 </p>
+
